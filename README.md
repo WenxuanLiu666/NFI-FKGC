@@ -2,7 +2,7 @@
 Relation Learning with Neighborhood Fusion Interaction for Few-Shot Knowledge Graph Completion
 # Environment
 ● python 3.9  
-● GPU 3090  
+● GPU RTX 3090  
 ● CUDA 11.4  
 # Requirement
 pytorch== 1.10  
